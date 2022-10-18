@@ -1,1 +1,1 @@
-# Challenge-website
+Web accessibility is an increasingly important consideration for businesses. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. I reviewed the code for the website, and I tried to improve it for long-term sustainability. I made sure that all the links are functioning correctly. I tried to consolidate the CSS selectors and I made sure that the HTML elements are in semantic structure.
